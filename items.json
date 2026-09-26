@@ -1,0 +1,18 @@
+[
+  {"name": "Sofa", "category": "Furniture", "condition": "Good", "description": "3-seater sofa"},
+  {"name": "Dining Table", "category": "Furniture", "condition": "Excellent", "description": "Wooden table"},
+  {"name": "Microwave", "category": "Appliances", "condition": "Good", "description": "Working microwave"},
+  {"name": "Bicycle", "category": "Sports", "condition": "Fair", "description": "Mountain bike"},
+  {"name": "Laptop", "category": "Electronics", "condition": "Good", "description": "Dell i5 laptop"},
+  {"name": "Books Set", "category": "Books", "condition": "Excellent", "description": "Set of 10 novels"},
+  {"name": "Washing Machine", "category": "Appliances", "condition": "Good", "description": "Front-load washer"},
+  {"name": "Office Chair", "category": "Furniture", "condition": "Excellent", "description": "Ergonomic chair"},
+  {"name": "Coffee Table", "category": "Furniture", "condition": "Good", "description": "Glass top table"},
+  {"name": "TV", "category": "Electronics", "condition": "Good", "description": "42-inch LED TV"},
+  {"name": "Refrigerator", "category": "Appliances", "condition": "Fair", "description": "Double door fridge"},
+  {"name": "Guitar", "category": "Music", "condition": "Excellent", "description": "Acoustic guitar"},
+  {"name": "Bed Frame", "category": "Furniture", "condition": "Good", "description": "Queen size bed"},
+  {"name": "Air Conditioner", "category": "Appliances", "condition": "Good", "description": "1.5 ton split AC"},
+  {"name": "Bookshelf", "category": "Furniture", "condition": "Excellent", "description": "5-tier shelf"},
+  {"name": "Blender", "category": "Appliances", "condition": "Good", "description": "Kitchen blender"}
+]
